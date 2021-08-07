@@ -1,0 +1,78 @@
+[{
+        "img": "https://a0.muscache.com/im/pictures/324e2188-c22f-41e6-9691-9b4f84de81a9.jpg",
+        "location": "Private room in Mumbai",
+        "title": "Elite Homes 1, JB Nagar Andheri - East",
+        "description": "2 guests · 1 bedroom · 1 bed · 1 private bathroom · Air conditioning · Wifi",
+        "star": 4.73,
+        "price": "₹1,484 / night",
+        "total": "₹2,967 total",
+        "long": 19.121858019627634,
+        "lat": 72.86652202637138
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/b6b8676d-191f-42ae-a849-04d7d7d2e3dd.jpg",
+        "location": "Entire villa in Mumbai",
+        "title": "Birds Nest Villa",
+        "description": "14 guests · 1 bedroom · 4 beds · 2 bathrooms · Air conditioning · Wifi · Kitchen · Washing Machine",
+        "star": 4.78,
+        "price": "₹6,692 / night",
+        "total": "₹13,884 total",
+        "long": 19.240862371089637,
+        "lat": 72.85184497959156
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/0c6ab43f-3ba8-4ade-827d-fc4c702189d9.jpg",
+        "location": "Hotel room in Mumbai",
+        "title": "Leisure Room Bathtub 100% Privacy+Kitchenette",
+        "description": "3 guests · 1 bedroom · 1 bed · 1 private bathroom · Air conditioning · Wifi · Kitchen",
+        "star": 4.62,
+        "price": "₹2,775 / night",
+        "total": "₹5,550 total",
+        "long": 19.102842726945006,
+        "lat": 72.87747498020624
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/367f3547-17a8-42ad-bcd3-47981128869b.jpg",
+        "location": "Entire rental unit in Mumbai",
+        "title": "Brilliant 1BHK apartment in pali",
+        "description": "2 guests · 1 bedroom · 1 bed · 1 bathroom · Air conditioning · Wifi · Kitchen · Washing Machine",
+        "star": 4.50,
+        "price": "₹4,600 / night",
+        "total": "₹9,700 total",
+        "long": 19.10900787068225,
+        "lat": 72.82717587436498
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/09a8fd4d-6ec1-4b55-822b-818b6f880356.jpg",
+        "location": "Private room in Mumbai",
+        "title": "5 Star Luxury in the Heart of Bandra",
+        "description": "3 guests · 1 bedroom · 1 bed · 1 bathroom · Air conditioning · Wifi · Kitchen · Washing Machine",
+        "star": 4.96,
+        "price": "₹2,603 / night",
+        "total": "₹5,706 total",
+        "long": 19.07410811630026,
+        "lat": 72.83502017599646
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/468919a8-65a8-4144-962d-4d9c24e370ad.jpg",
+        "location": "Entired serviced apartment in Mumbai",
+        "title": "Modern delight in Bandra West",
+        "description": "2 guests · 1 bedroom · 1 bed · 1 private bathroom · Air conditioning · Wifi  ",
+        "star": 4.71,
+        "price": "₹3,459 / night",
+        "total": "₹7,418 total",
+        "long": 19.05958118001823,
+        "lat": 72.83443919038555
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/db66acfb-82e9-40d3-8953-c5a5f69a6ba9.jpg",
+        "location": "Hotel room in Mumbai",
+        "title": "Couple + Budget Friendly, Compact + Netflix",
+        "description": "2 guests · 1 bedroom · 1 bed · 1 private bathroom · Air conditioning · Wifi  ",
+        "star": 4.73,
+        "price": "₹1,850 / night",
+        "total": "₹3,700 total",
+        "long": 19.07376175476178,
+        "lat": 72.83553714804926
+    }
+]
